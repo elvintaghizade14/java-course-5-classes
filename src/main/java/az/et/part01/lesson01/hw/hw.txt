@@ -1,0 +1,10 @@
+READINGS:
+    - README_01.md
+    - README_02.md
+    - README_03.md
+    - README_04.md
+E-OLYMP:
+    - HW#1
+    - HW#2
+    - HW#3
+    - HW#4
