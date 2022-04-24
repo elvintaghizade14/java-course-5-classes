@@ -1,10 +1,8 @@
-package az.et.part01.losson06;
+package az.et.part01.lesson06;
 
 import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
-import java.io.IOException;
-import java.io.OutputStream;
 import java.io.PrintWriter;
 import java.time.LocalDateTime;
 

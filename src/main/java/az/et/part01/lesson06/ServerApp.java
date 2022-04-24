@@ -1,4 +1,4 @@
-package az.et.part01.losson06;
+package az.et.part01.lesson06;
 
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.servlet.ServletContextHandler;
